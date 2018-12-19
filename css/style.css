@@ -1,0 +1,53 @@
+@charset "utf-8";
+* {
+margin:0;
+padding:0;
+outline:0
+}
+
+a,a:hover,a:focus {
+text-decoration:none;
+outline:0;
+border:0
+}
+
+p {
+margin:0
+}
+
+ul,ol {
+list-style:none;
+padding:0
+}
+
+.pl0 {
+    padding-left:0
+}
+
+.pr0 {
+    padding-right:0
+}
+
+.p0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.list-inline {
+margin:0
+}
+
+h1,h2,h3,h4,h5,h6,ul {
+margin-top:0;
+margin-bottom:0
+}
+
+@font-face {
+font-family:opensans_eb;
+src:url(../fonts/open-sans/OpenSans-ExtraBold.ttf)
+}
+
+@media(max-width:767px){
+   
+    }
+}
